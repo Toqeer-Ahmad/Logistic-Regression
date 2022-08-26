@@ -1,4 +1,4 @@
-# Supervised Learning - Logistic Regression
+# Logistic Regression
 In this project, we will implement logistic regression and apply it to two different datasets.
 
 ## Packages used in this project:
